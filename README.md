@@ -1,4 +1,4 @@
-**demo**: [https:/Xyx520999.github.io/vue-admin/](https://Xyx520999.github.io/vue-admin/)
+**demo**: [play9377.github.io/vue-admin/](play9377.github.io/vue-admin/)
 
 # To start
 
